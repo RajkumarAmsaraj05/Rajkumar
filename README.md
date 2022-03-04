@@ -9,7 +9,6 @@
     -  Microsoft Certified: Azure Security Technologies
     -  Certified: Azure for SAP Workloads Speciality
     -  AWS Certified Solutions Architect – Associate
-
 - 💞️ Ask or talk to me on design ideas for cloud architectures and nuances around it.
 - 📫 You can reach me [@rajkumaramsaraj](https://t.me/rajkumaramsaraj)
 
