@@ -1,6 +1,6 @@
 ![banner](https://github.com/rajkumar-amsaraj/Rajkumar/blob/main/Raj_banner.png?raw=true)
 
-## Hi, I’m Rajkumar 👋
+# Hi, I’m Rajkumar 👋
 
 - 👀 I’m interested in understanding and architecting the perfect cloud solution customized to my customer/organization's needs. 
 - 🌱 I have 8+ Years of hands-on experience in Enterprise IT infrastructure, Design Authority, Cloud services designs, Directory Services.
